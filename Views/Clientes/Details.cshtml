@@ -1,0 +1,56 @@
+﻿@model SCMotors.Models.Clientes
+
+@{
+    ViewBag.Title = "Detalles del Cliente";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Detalles del Cliente</h2>
+
+<div class="card">
+    <div class="card-body">
+        <h4>Información del Cliente</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.Nombre)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Nombre)
+            </dd>
+
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.Identificacion)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Identificacion)
+            </dd>
+
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.Email)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Email)
+            </dd>
+
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.Telefono)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Telefono)
+            </dd>
+
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.direccion)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.direccion)
+            </dd>
+        </dl>
+
+        <div class="mt-4">
+            <a href="@Url.Action("Edit", "Clientes", new { id = Model.Id })" class="btn btn-primary">Editar</a>
+            <a href="@Url.Action("Index", "Clientes")" class="btn btn-secondary">Volver a la lista</a>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,62 @@
+﻿@model SCMotors.Models.Clientes
+
+@{
+    ViewBag.Title = "Eliminar Cliente";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Eliminar Cliente</h2>
+
+<h3>¿Estás seguro de que deseas eliminar este cliente?</h3>
+
+<div class="card">
+    <div class="card-body">
+        <h4>Detalles del Cliente</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.Nombre)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Nombre)
+            </dd>
+
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.Identificacion)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Identificacion)
+            </dd>
+
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.Email)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Email)
+            </dd>
+
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.Telefono)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Telefono)
+            </dd>
+
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.direccion)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.direccion)
+            </dd>
+        </dl>
+
+        <form method="post">
+            @Html.AntiForgeryToken()
+
+            <div class="form-actions">
+                <button type="submit" class="btn btn-danger">Eliminar</button>
+                <a href="@Url.Action("Index", "Clientes")" class="btn btn-secondary">Volver a la lista</a>
+            </div>
+        </form>
+    </div>
+</div>
