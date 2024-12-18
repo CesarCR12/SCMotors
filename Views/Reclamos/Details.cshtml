@@ -1,0 +1,58 @@
+﻿@model SCMotors.Models.Reclamos
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Reclamos</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Cliente_id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cliente_id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tipo_reclamo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tipo_reclamo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Detalle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Detalle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Estado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Estado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Respuesta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Respuesta)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

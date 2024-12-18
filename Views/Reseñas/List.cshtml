@@ -1,0 +1,51 @@
+﻿@model IEnumerable<SCMotors.Models.Reseñas>
+
+@{
+    ViewBag.Title = "List";
+}
+
+<h2>List</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Cliente_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Vehiculo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Calificacion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Comentario)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cliente_id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Vehiculo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Calificacion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Comentario)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

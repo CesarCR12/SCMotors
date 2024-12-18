@@ -1,0 +1,66 @@
+﻿@model SCMotors.Models.Seguros
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Seguros</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cobertura)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cobertura)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Costo_anual)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Costo_anual)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Compañía)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Compañía)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Vigencia_meses)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Vigencia_meses)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Estado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Estado)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
