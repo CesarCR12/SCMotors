@@ -1,51 +1,40 @@
 ﻿@model IEnumerable<SCMotors.Models.Ventas>
 
 @{
-    ViewBag.Title = "List";
+    ViewBag.Title = "Lista de Ventas";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2>List</h2>
+<h2>Lista de Ventas</h2>
 
 <p>
-    @Html.ActionLink("Create New", "Create")
+    @Html.ActionLink("Crear Nueva Venta", "Create", new { @class = "btn btn-primary" })
 </p>
-<table class="table">
-    <tr>
-        <th>
-            @Html.DisplayNameFor(model => model.Empleado)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Cliente)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Vehiculo_id)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Total)
-        </th>
-        <th></th>
-    </tr>
 
-@foreach (var item in Model) {
-    <tr>
-        <td>
-            @Html.DisplayFor(modelItem => item.Empleado)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Cliente)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Vehiculo_id)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Total)
-        </td>
-        <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
-            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
-        </td>
-    </tr>
-}
-
+<table class="table table-striped table-bordered">
+    <thead class="thead-dark">
+        <tr>
+            <th>Empleado</th>
+            <th>Cliente</th>
+            <th>Vehículo</th>
+            <th>Total</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Empleado)</td>
+                <td>@Html.DisplayFor(modelItem => item.Cliente)</td>
+                <td>@Html.DisplayFor(modelItem => item.Vehiculo_id)</td>
+                <td>@Html.DisplayFor(modelItem => item.Total)</td>
+                <td>
+                    <a href="@Url.Action("Edit", "Ventas", new { id = item.Id })" class="btn btn-warning btn-sm">Editar</a>
+                    <a href="@Url.Action("Details", "Ventas", new { id = item.Id })" class="btn btn-info btn-sm">Detalles</a>
+                    <a href="@Url.Action("Delete", "Ventas", new { id = item.Id })" class="btn btn-danger btn-sm" onclick="return confirm('¿Estás seguro de que deseas eliminar esta venta?')">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
 </table>

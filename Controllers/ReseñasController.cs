@@ -111,12 +111,12 @@ namespace SCMotors.Controllers
                 .Find(_ => true)
                 .Project(c => new SelectListItem
                 {
-                    Value = c.Id,        // El valor será el ID del cliente
-                    Text = c.Nombre      // El texto será el nombre del cliente
+                    Value = c.Id,        
+                    Text = c.Nombre      
                 })
                 .ToList();
 
-            ViewBag.Clientes = clientes; // Pasar la lista de clientes a la vista
+            ViewBag.Clientes = clientes; 
             return View(reseñas);
         }
 
@@ -137,7 +137,6 @@ namespace SCMotors.Controllers
                 return RedirectToAction("Index");
             }
 
-            // Volver a cargar la lista de clientes en caso de que el modelo sea inválido
             var clientes = _conexion.ClientesCollection
                 .Find(_ => true)
                 .Project(c => new SelectListItem

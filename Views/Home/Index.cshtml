@@ -2,97 +2,227 @@
     ViewBag.Title = "SC Motors - Inicio";
 }
 
-<main>
-    <section class="hero text-center py-5" style="background-color: #f8f9fa;">
-        <h1 id="title" class="display-4">Bienvenido a SC Motors</h1>
-        <p class="lead">Gestiona los autos.</p>
-        <a href="/autos" class="btn btn-primary btn-lg mt-3">Explorar Autos</a>
-    </section>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #ffffff; 
+            font-family: 'Arial', sans-serif;
+        }
 
-    <div class="container py-5">
-        <div class="row text-center">
-            <section class="col-md-4" aria-labelledby="qualityTitle">
-                <h2 id="qualityTitle" style="color: #000000; ">Calidad Garantizada</h2>
-                <p style="color: #000000; ">Todos nuestros autos están inspeccionados y garantizados para ofrecerte la mejor experiencia.</p>
-                <img src="https://suministrosneumaticos.com.co/wp-content/uploads/2016/11/calidad-garantizada.png" alt="Calidad Garantizada" class="img-fluid mt-3" style="max-width: 150px;">
-            </section>
-            <section class="col-md-4" aria-labelledby="financingTitle">
-                <h2 id="financingTitle" style="color: #000000; ">Opciones de Financiamiento</h2>
-                <p style="color: #000000; ">Te ofrecemos planes flexibles de financiamiento que se ajustan a tus necesidades.</p>
-                <img src="https://cdn-icons-png.flaticon.com/512/1569/1569357.png" alt="Opciones de Financiamiento" class="img-fluid mt-3" style="max-width: 150px;">
-            </section>
-            <section class="col-md-4" aria-labelledby="supportTitle">
-                <h2 id="supportTitle" style="color: #000000; ">Soporte y Asistencia</h2>
-                <p style="color: #000000; ">Estamos contigo antes, durante y después de tu compra para garantizar tu satisfacción.</p>
-                <img src="https://static.vecteezy.com/system/resources/thumbnails/000/345/523/small/Technical_Support.jpg" alt="Soporte y Asistencia" class="img-fluid mt-3" style="max-width: 150px;">
-            </section>
+        .navbar-dark {
+            background-color: #2a3e53 !important; 
+        }
+
+        .hero {
+            background-color: #2a3e53; 
+            color: #ffffff; 
+        }
+
+            .hero h1 {
+                font-size: 3rem;
+                margin-bottom: 20px;
+            }
+
+            .hero p {
+                font-size: 1.5rem;
+                color: #ffffff;
+            }
+
+            .hero .btn-primary {
+                background-color: #2a3e53; 
+                border: none;
+            }
+
+                .hero .btn-primary:hover {
+                    background-color: #344e64; 
+                }
+
+        .section-title {
+            color: #000000; 
+        }
+
+        .highlight-section {
+            background-color: #2a3e53; 
+            color: #ffffff; 
+        }
+
+            .highlight-section h2, .highlight-section p {
+                color: #ffffff !important; 
+            }
+
+        .container h2 {
+            color: #000000; 
+            margin-bottom: 15px;
+        }
+
+        .container p {
+            color: #808080; 
+        }
+
+        .btn-secondary {
+            background-color: #000000; 
+            border: 2px solid #2a3e53; 
+            color: #ffffff; 
+            margin: 10px; 
+        }
+
+            .btn-secondary:hover {
+                background-color: #2a3e53; 
+                border: 2px solid #2a3e53; 
+                color: #ffffff; 
+            }
+
+        .text-white a {
+            color: #ffffff; 
+        }
+
+            .text-white a:hover {
+                text-decoration: none;
+                color: #344e64; 
+            }
+
+        .text-center {
+            padding: 20px 0; 
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <section class="hero text-center py-5">
+            <h1 id="title" class="display-4">Bienvenido a SC Motors</h1>
+            <p class="lead" style="color: #ffffff;">Gestiona los autos.</p>
+            <a href="/autos" class="btn btn-outline-light btn-lg mt-3">Explorar Autos</a>
+        </section>
+
+        <div class="container py-5">
+            <div class="row text-center">
+                <section class="col-md-4" aria-labelledby="qualityTitle">
+                    <h2 id="qualityTitle" class="section-title">Calidad Garantizada</h2>
+                    <p>Todos nuestros autos están inspeccionados y garantizados para ofrecerte la mejor experiencia.</p>
+                    <img src="https://suministrosneumaticos.com.co/wp-content/uploads/2016/11/calidad-garantizada.png" alt="Calidad Garantizada" class="img-fluid mt-3" style="max-width: 150px;">
+                </section>
+                <section class="col-md-4" aria-labelledby="financingTitle">
+                    <h2 id="financingTitle" class="section-title">Opciones de Financiamiento</h2>
+                    <p>Te ofrecemos planes flexibles de financiamiento que se ajustan a tus necesidades.</p>
+                    <img src="https://cdn-icons-png.flaticon.com/512/1569/1569357.png" alt="Opciones de Financiamiento" class="img-fluid mt-3" style="max-width: 150px;">
+                </section>
+                <section class="col-md-4" aria-labelledby="supportTitle">
+                    <h2 id="supportTitle" class="section-title">Soporte y Asistencia</h2>
+                    <p>Estamos contigo antes, durante y después de tu compra para garantizar tu satisfacción.</p>
+                    <img src="https://static.vecteezy.com/system/resources/thumbnails/000/345/523/small/Technical_Support.jpg" alt="Soporte y Asistencia" class="img-fluid mt-3" style="max-width: 150px;">
+                </section>
+            </div>
         </div>
-    </div>
 
-    <div class="highlight-section py-5 text-center text-white" style="background-color: #2a3e53;">
-        <h2>Promociones Exclusivas</h2>
-        <p class="lead">¡Aprovecha nuestros descuentos en autos seleccionados!</p>
-        <a href="/promociones" class="btn btn-outline-light btn-lg">Ver Promociones</a>
-    </div>
+        <div class="highlight-section py-5 text-center text-white">
+            <h2>Promociones Exclusivas</h2>
+            <p class="lead">¡Aprovecha nuestros descuentos en autos seleccionados!</p>
+            <a href="/promociones" class="btn btn-outline-light btn-lg">Ver Promociones</a>
+        </div>
 
-    <div class="container py-5 text-center">
-        <h2>Gestión de Clientes</h2>
-        <p>Accede al listado de nuestros clientes y gestiona su información de manera eficiente.</p>
-        <a href="/clientes" class="btn btn-secondary btn-lg">Ir a Clientes</a>
-    </div>
+        <div class="container py-5 text-center">
+            <div class="row">
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Gestión de Clientes</h5>
+                            <p class="card-text">Accede al listado de nuestros clientes y gestiona su información de manera eficiente.</p>
+                            <a href="/clientes" class="btn btn-secondary btn-lg">Ir a Clientes</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Gestión de Reservas</h5>
+                            <p class="card-text">Accede al listado de nuestras Reservas y gestiona su información de manera eficiente.</p>
+                            <a href="/reservas" class="btn btn-secondary btn-lg">Ir a Reservas</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Gestión de Empleados</h5>
+                            <p class="card-text">Accede al listado de nuestros Empleados y gestiona su información de manera eficiente.</p>
+                            <a href="/empleados" class="btn btn-secondary btn-lg">Ir a Empleados</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Gestión de Financiamiento</h5>
+                            <p class="card-text">Accede al listado de nuestros Financiamiento y gestiona su información de manera eficiente.</p>
+                            <a href="/financiamiento" class="btn btn-secondary btn-lg">Ir a Financiamiento</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Gestión de Mantenimiento</h5>
+                            <p class="card-text">Accede al listado de nuestros Mantenimientos y gestiona su información de manera eficiente.</p>
+                            <a href="/mantenimiento" class="btn btn-secondary btn-lg">Ir a Mantenimiento</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Gestión de Reseñas</h5>
+                            <p class="card-text">Accede al listado de nuestras Reseñas y gestiona su información de manera eficiente.</p>
+                            <a href="/reseñas" class="btn btn-secondary btn-lg">Ir a Reseñas</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Gestión de Proveedores</h5>
+                            <p class="card-text">Accede al listado de nuestros Proveedores y gestiona su información de manera eficiente.</p>
+                            <a href="/proovedores" class="btn btn-secondary btn-lg">Ir a Proveedores</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Gestión de Seguros</h5>
+                            <p class="card-text">Accede al listado de nuestros Seguros y gestiona su información de manera eficiente.</p>
+                            <a href="/seguros" class="btn btn-secondary btn-lg">Ir a Seguros</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Gestión de Reclamos</h5>
+                            <p class="card-text">Accede al listado de nuestros Reclamos y gestiona su información de manera eficiente.</p>
+                            <a href="/reclamos" class="btn btn-secondary btn-lg">Ir a Reclamos</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Gestión de Ventas</h5>
+                            <p class="card-text">Accede al listado de nuestros Ventas y gestiona su información de manera eficiente.</p>
+                            <a href="/ventas" class="btn btn-secondary btn-lg">Ir a Ventas</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
 
-    <div class="container py-5 text-center">
-        <h2>Gestión de Reservas</h2>
-        <p>Accede al listado de nuestras Reservas y gestiona su información de manera eficiente.</p>
-        <a href="/reservas" class="btn btn-secondary btn-lg">Ir a Reservas</a>
-    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
 
-    <div class="container py-5 text-center">
-        <h2>Gestión de Empleados</h2>
-        <p>Accede al listado de nuestros Empleados y gestiona su información de manera eficiente.</p>
-        <a href="/empleados" class="btn btn-secondary btn-lg">Ir a Empleados</a>
-    </div>
-
-    <div class="container py-5 text-center">
-        <h2>Gestión de Financiamiento</h2>
-        <p>Accede al listado de nuestros Financiamiento y gestiona su información de manera eficiente.</p>
-        <a href="/financiamiento" class="btn btn-secondary btn-lg">Ir a Financiamiento</a>
-    </div>
-
-    <div class="container py-5 text-center">
-        <h2>Gestión de Mantenimiento</h2>
-        <p>Accede al listado de nuestros Mantenimientos y gestiona su información de manera eficiente.</p>
-        <a href="/mantenimiento" class="btn btn-secondary btn-lg">Ir a Mantenimiento</a>
-    </div>
-
-    <div class="container py-5 text-center">
-        <h2>Gestión de Reseñas</h2>
-        <p>Accede al listado de nuestros Reseñas y gestiona su información de manera eficiente.</p>
-        <a href="/reseñas" class="btn btn-secondary btn-lg">Ir a Reseñas</a>
-    </div>
-
-    <div class="container py-5 text-center">
-        <h2>Gestión de Proveedores</h2>
-        <p>Accede al listado de nuestros Proveedores y gestiona su información de manera eficiente.</p>
-        <a href="/proovedores" class="btn btn-secondary btn-lg">Ir a Reseñas</a>
-    </div>
-
-    <div class="container py-5 text-center">
-        <h2>Gestión de Seguros</h2>
-        <p>Accede al listado de nuestros Seguros y gestiona su información de manera eficiente.</p>
-        <a href="/seguros" class="btn btn-secondary btn-lg">Ir a Seguros</a>
-    </div>
-
-    <div class="container py-5 text-center">
-        <h2>Gestión de Reclamos</h2>
-        <p>Accede al listado de nuestros Reclamos y gestiona su información de manera eficiente.</p>
-        <a href="/reclamos" class="btn btn-secondary btn-lg">Ir a Reclamos</a>
-    </div>
-
-    <div class="container py-5 text-center">
-        <h2>Gestión de Ventas</h2>
-        <p>Accede al listado de nuestros Ventas y gestiona su información de manera eficiente.</p>
-        <a href="/ventas" class="btn btn-secondary btn-lg">Ir a Ventas</a>
-    </div>
-
-</main>

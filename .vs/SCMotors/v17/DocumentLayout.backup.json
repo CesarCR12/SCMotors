@@ -3,31 +3,219 @@
   "WorkspaceRootPath": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\reservas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\reservas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\models\\reclamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:models\\reclamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\ventas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\ventas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\models\\autos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:models\\autos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\ventas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\ventas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\models\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:models\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\controllers\\seguroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:controllers\\seguroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\controllers\\rese\u00F1ascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:controllers\\rese\u00F1ascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\controllers\\reclamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:controllers\\reclamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\controllers\\proovedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:controllers\\proovedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\controllers\\promocionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:controllers\\promocionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\controllers\\mantenimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:controllers\\mantenimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\controllers\\financiamientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:controllers\\financiamientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\controllers\\autoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:controllers\\autoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\ventas\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\ventas\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\reservas\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\reservas\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\seguros\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\seguros\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\rese\u00F1as\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\rese\u00F1as\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\reclamos\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\reclamos\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\proovedores\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\proovedores\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\promociones\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\promociones\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\mantenimiento\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\mantenimiento\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\financiamiento\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\financiamiento\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\empleados\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\empleados\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\clientes\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\clientes\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\ventas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\ventas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\seguros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\seguros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\reservas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\reservas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\rese\u00F1as\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\rese\u00F1as\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\reclamos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\reclamos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\proovedores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\proovedores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\promociones\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\promociones\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\mantenimiento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\mantenimiento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\financiamiento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\financiamiento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\empleados\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\empleados\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\autos\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\autos\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\autos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\autos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\autos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\autos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\rese\u00F1as\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\rese\u00F1as\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\reclamos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\reclamos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\reservas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\reservas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\ventas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\ventas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\models\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:models\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -39,192 +227,104 @@
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\reservas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\ventas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\ventas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\ventas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\ventas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\ventas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\ventas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\reservas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\reservas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\ventas\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\ventas\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\models\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:models\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\controllers\\reclamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:controllers\\reclamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\models\\reclamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:models\\reclamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\reclamos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\reclamos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\reservas\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\reservas\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\reclamos\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\reclamos\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\reclamos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\reclamos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\reclamos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\reclamos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\reclamos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\reclamos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\reclamos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\reclamos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\reclamos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\reclamos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\reclamos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\models\\reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:models\\reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\models\\rese\u00F1as.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:models\\rese\u00F1as.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\models\\autos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:models\\autos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\seguros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\seguros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\seguros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\seguros\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\seguros\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\seguros\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\seguros\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\seguros\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\seguros\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\seguros\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\seguros\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\seguros\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\seguros\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\seguros\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\seguros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\seguros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\models\\seguros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\models\\seguros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:models\\seguros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\controllers\\seguroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:controllers\\seguroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\promociones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\promociones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\promociones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\controllers\\autoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:controllers\\autoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\proovedores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\proovedores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\proovedores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\proovedores\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\proovedores\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\proovedores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\proovedores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\proovedores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\proovedores\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\proovedores\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\proovedores\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\proovedores\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\proovedores\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\proovedores\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\proovedores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\proovedores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\controllers\\proovedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:controllers\\proovedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\controllers\\promocionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:controllers\\promocionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\models\\proovedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\models\\proovedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:models\\proovedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\promociones\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\promociones\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\promociones\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\promociones\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\promociones\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\promociones\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\promociones\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\promociones\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\promociones\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\promociones\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\promociones\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\views\\promociones\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\promociones\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\models\\mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:models\\mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|c:\\users\\xsf\\documents\\6 cuatrimestre\\6 cuatrimestre nosql\\proyecto\\scmotors\\models\\promociones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\models\\promociones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:models\\promociones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\models\\financiamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:models\\financiamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\rese\u00F1as\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\rese\u00F1as\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\controllers\\rese\u00F1ascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:controllers\\rese\u00F1ascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\rese\u00F1as\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -247,44 +347,16 @@
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\mantenimiento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\rese\u00F1as\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\rese\u00F1as\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\rese\u00F1as\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\rese\u00F1as\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\models\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:models\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\controllers\\financiamientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:controllers\\financiamientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\controllers\\mantenimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:controllers\\mantenimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\mantenimiento\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\mantenimiento\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\mantenimiento\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\mantenimiento\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\mantenimiento\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -295,28 +367,8 @@
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\mantenimiento\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\mantenimiento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\mantenimiento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\financiamiento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\financiamiento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\financiamiento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\financiamiento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\financiamiento\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\financiamiento\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\financiamiento\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -329,10 +381,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\financiamiento\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\financiamiento\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\empleados\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\empleados\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\empleados\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -351,26 +399,6 @@
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\empleados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\empleados\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\empleados\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\clientes\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\clientes\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\autos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\autos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\autos\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\autos\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\autos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\autos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -383,10 +411,6 @@
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\autos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\autos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\autos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -397,26 +421,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC3B8D88-AECC-4F34-A221-C80667ECB43A}|SCMotors.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -426,128 +430,647 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PromocionesController.cs",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\PromocionesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PromocionesController.cs",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\PromocionesController.cs",
+              "RelativeToolTip": "Controllers\\PromocionesController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAmwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T01:24:43.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProovedoresController.cs",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\ProovedoresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProovedoresController.cs",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\ProovedoresController.cs",
+              "RelativeToolTip": "Controllers\\ProovedoresController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAuwJIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T01:39:02.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Ventas\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Ventas\\Index.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Ventas\\Index.cshtml",
-              "RelativeToolTip": "Views\\Ventas\\Index.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T03:17:23.297Z",
+              "Title": "ReclamosController.cs",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\ReclamosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReclamosController.cs",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\ReclamosController.cs",
+              "RelativeToolTip": "Controllers\\ReclamosController.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAYwAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:49:50.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Ventas\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Ventas\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Ventas\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Ventas\\Edit.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T03:17:03.695Z",
+              "DocumentIndex": 5,
+              "Title": "Rese\u00F1asController.cs",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\Rese\u00F1asController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Rese\u00F1asController.cs",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\Rese\u00F1asController.cs",
+              "RelativeToolTip": "Controllers\\Rese\u00F1asController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:11:32.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Ventas\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Ventas\\Details.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Ventas\\Details.cshtml",
-              "RelativeToolTip": "Views\\Ventas\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T03:16:45.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Ventas\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Ventas\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Ventas\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Ventas\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T03:16:29.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Ventas\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Ventas\\Create.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Ventas\\Create.cshtml",
-              "RelativeToolTip": "Views\\Ventas\\Create.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADcAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T03:16:10.974Z",
+              "DocumentIndex": 4,
+              "Title": "ReservasController.cs",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\ReservasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservasController.cs",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\ReservasController.cs",
+              "RelativeToolTip": "Controllers\\ReservasController.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAYwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:21:51.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "SegurosController.cs",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\SegurosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SegurosController.cs",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\SegurosController.cs",
+              "RelativeToolTip": "Controllers\\SegurosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T01:55:15.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "VentasController.cs",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\VentasController.cs",
               "RelativeDocumentMoniker": "Controllers\\VentasController.cs",
               "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\VentasController.cs",
               "RelativeToolTip": "Controllers\\VentasController.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAuwEYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T03:09:10.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Autos.cs",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Models\\Autos.cs",
+              "RelativeDocumentMoniker": "Models\\Autos.cs",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Models\\Autos.cs",
+              "RelativeToolTip": "Models\\Autos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:29:45.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reclamos.cs",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Models\\Reclamos.cs",
+              "RelativeDocumentMoniker": "Models\\Reclamos.cs",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Models\\Reclamos.cs",
+              "RelativeToolTip": "Models\\Reclamos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:47:27.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MantenimientoController.cs",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\MantenimientoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MantenimientoController.cs",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\MantenimientoController.cs",
+              "RelativeToolTip": "Controllers\\MantenimientoController.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAmwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T03:36:04.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:33:26.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "FinanciamientoController.cs",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\FinanciamientoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FinanciamientoController.cs",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\FinanciamientoController.cs",
+              "RelativeToolTip": "Controllers\\FinanciamientoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T01:30:28.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmpleadosController.cs",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\EmpleadosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmpleadosController.cs",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\EmpleadosController.cs",
+              "RelativeToolTip": "Controllers\\EmpleadosController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAYwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T23:37:03.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAkwGwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:33:59.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AutosController.cs",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\AutosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AutosController.cs",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\AutosController.cs",
+              "RelativeToolTip": "Controllers\\AutosController.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAkwGoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:56:17.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:13:49.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reservas\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Reservas\\Create.cshtml",
               "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reservas\\Create.cshtml",
               "RelativeToolTip": "Views\\Reservas\\Create.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-14T01:35:20.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reservas\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Reservas\\Details.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reservas\\Details.cshtml",
-              "RelativeToolTip": "Views\\Reservas\\Details.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 37,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T01:35:59.25Z",
+              "WhenOpened": "2024-12-11T04:47:29.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reservas\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Reservas\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reservas\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Reservas\\Edit.cshtml",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAWwBIAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Seguros\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Seguros\\Create.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Seguros\\Create.cshtml",
+              "RelativeToolTip": "Views\\Seguros\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T01:36:32.717Z",
+              "WhenOpened": "2024-12-17T01:59:06.731Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 16,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Ventas\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\List.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Ventas\\List.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\List.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T03:17:39.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Seguros\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Seguros\\List.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Seguros\\List.cshtml",
+              "RelativeToolTip": "Views\\Seguros\\List.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T02:00:46.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reservas\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservas\\List.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reservas\\List.cshtml",
+              "RelativeToolTip": "Views\\Reservas\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T01:37:17.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Rese\u00F1as\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Rese\u00F1as\\List.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Rese\u00F1as\\List.cshtml",
+              "RelativeToolTip": "Views\\Rese\u00F1as\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T21:20:39.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reclamos\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reclamos\\List.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reclamos\\List.cshtml",
+              "RelativeToolTip": "Views\\Reclamos\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T02:59:37.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Proovedores\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proovedores\\List.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Proovedores\\List.cshtml",
+              "RelativeToolTip": "Views\\Proovedores\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T01:49:55.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Promociones\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Promociones\\List.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Promociones\\List.cshtml",
+              "RelativeToolTip": "Views\\Promociones\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T01:32:08.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Mantenimiento\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Mantenimiento\\List.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Mantenimiento\\List.cshtml",
+              "RelativeToolTip": "Views\\Mantenimiento\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T03:45:25.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Financiamiento\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Financiamiento\\List.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Financiamiento\\List.cshtml",
+              "RelativeToolTip": "Views\\Financiamiento\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T01:36:07.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Empleados\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Empleados\\List.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Empleados\\List.cshtml",
+              "RelativeToolTip": "Views\\Empleados\\List.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T23:52:52.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Clientes\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\List.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Clientes\\List.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T04:48:46.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Autos\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Autos\\List.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Autos\\List.cshtml",
+              "RelativeToolTip": "Views\\Autos\\List.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T23:06:37.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Ventas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Ventas\\Create.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T03:16:10.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Rese\u00F1as\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Rese\u00F1as\\Create.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Rese\u00F1as\\Create.cshtml",
+              "RelativeToolTip": "Views\\Rese\u00F1as\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T21:41:15.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reclamos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reclamos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reclamos\\Create.cshtml",
+              "RelativeToolTip": "Views\\Reclamos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T02:58:09.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Proovedores\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proovedores\\Create.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Proovedores\\Create.cshtml",
+              "RelativeToolTip": "Views\\Proovedores\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T01:48:09.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Promociones\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Promociones\\Create.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Promociones\\Create.cshtml",
+              "RelativeToolTip": "Views\\Promociones\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T01:30:30.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Mantenimiento\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Mantenimiento\\Create.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Mantenimiento\\Create.cshtml",
+              "RelativeToolTip": "Views\\Mantenimiento\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T03:43:08.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Financiamiento\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Financiamiento\\Create.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Financiamiento\\Create.cshtml",
+              "RelativeToolTip": "Views\\Financiamiento\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T01:34:37.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Empleados\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Empleados\\Create.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Empleados\\Create.cshtml",
+              "RelativeToolTip": "Views\\Empleados\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T23:50:37.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Autos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Autos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Autos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Autos\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T23:06:18.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T03:52:56.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Autos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Autos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Autos\\Create.cshtml",
+              "RelativeToolTip": "Views\\Autos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T23:04:18.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:22:07.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:20:20.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:24:10.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:57:17.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Rese\u00F1as\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Rese\u00F1as\\Index.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Rese\u00F1as\\Index.cshtml",
+              "RelativeToolTip": "Views\\Rese\u00F1as\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T21:20:19.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reclamos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reclamos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reclamos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Reclamos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T02:59:20.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Models\\Ventas.cs",
+              "RelativeDocumentMoniker": "Models\\Ventas.cs",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Models\\Ventas.cs",
+              "RelativeToolTip": "Models\\Ventas.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T03:07:35.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reservas\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Reservas\\Index.cshtml",
@@ -560,59 +1083,105 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAF4AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T19:13:49.089Z",
+              "DocumentIndex": 46,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Views\\Web.config",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Web.config",
+              "RelativeToolTip": "Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-18T20:46:48.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Ventas.cs",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Models\\Ventas.cs",
-              "RelativeDocumentMoniker": "Models\\Ventas.cs",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Models\\Ventas.cs",
-              "RelativeToolTip": "Models\\Ventas.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
+              "DocumentIndex": 54,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reservas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reservas\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Reservas\\Edit.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAWwBIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T01:36:32.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reservas\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reservas\\Details.cshtml",
+              "RelativeToolTip": "Views\\Reservas\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T01:35:59.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T03:07:35.454Z",
+              "WhenOpened": "2024-12-11T19:21:50.869Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Ventas\\List.cshtml",
-              "RelativeDocumentMoniker": "Views\\Ventas\\List.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Ventas\\List.cshtml",
-              "RelativeToolTip": "Views\\Ventas\\List.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 57,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Ventas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Ventas\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T03:17:39.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T03:16:29.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 56,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Ventas\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Ventas\\Details.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T03:16:45.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Ventas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Ventas\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T03:17:03.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reclamos\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Reclamos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reclamos\\Index.cshtml",
-              "RelativeToolTip": "Views\\Reclamos\\Index.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAEEAAAAKAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Ventas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Ventas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T02:59:20.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T03:17:23.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 61,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reclamos\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Reclamos\\Delete.cshtml",
@@ -620,12 +1189,11 @@
               "RelativeToolTip": "Views\\Reclamos\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T02:58:30.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T02:58:30.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 60,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reclamos\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Reclamos\\Details.cshtml",
@@ -633,12 +1201,11 @@
               "RelativeToolTip": "Views\\Reclamos\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T02:58:50.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T02:58:50.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 59,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reclamos\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Reclamos\\Edit.cshtml",
@@ -646,64 +1213,11 @@
               "RelativeToolTip": "Views\\Reclamos\\Edit.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T02:59:06.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T02:59:06.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reclamos\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Reclamos\\Create.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reclamos\\Create.cshtml",
-              "RelativeToolTip": "Views\\Reclamos\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T02:58:09.208Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ReclamosController.cs",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\ReclamosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ReclamosController.cs",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\ReclamosController.cs",
-              "RelativeToolTip": "Controllers\\ReclamosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T02:49:50.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Reclamos.cs",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Models\\Reclamos.cs",
-              "RelativeDocumentMoniker": "Models\\Reclamos.cs",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Models\\Reclamos.cs",
-              "RelativeToolTip": "Models\\Reclamos.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T02:47:27.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reservas\\List.cshtml",
-              "RelativeDocumentMoniker": "Views\\Reservas\\List.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reservas\\List.cshtml",
-              "RelativeToolTip": "Views\\Reservas\\List.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T01:37:17.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 58,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Models\\Conexion.cs",
               "RelativeDocumentMoniker": "Models\\Conexion.cs",
@@ -711,25 +1225,11 @@
               "RelativeToolTip": "Models\\Conexion.cs",
               "ViewState": "AgIAAF8AAAAAAAAAAAAswIkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T02:09:55.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T02:09:55.595Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reclamos\\List.cshtml",
-              "RelativeDocumentMoniker": "Views\\Reclamos\\List.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reclamos\\List.cshtml",
-              "RelativeToolTip": "Views\\Reclamos\\List.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T02:59:37.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 64,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Seguros\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Seguros\\Index.cshtml",
@@ -737,38 +1237,11 @@
               "RelativeToolTip": "Views\\Seguros\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T02:00:28.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T02:00:28.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Seguros\\List.cshtml",
-              "RelativeDocumentMoniker": "Views\\Seguros\\List.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Seguros\\List.cshtml",
-              "RelativeToolTip": "Views\\Seguros\\List.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T02:00:46.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Proovedores\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Proovedores\\Create.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Proovedores\\Create.cshtml",
-              "RelativeToolTip": "Views\\Proovedores\\Create.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T01:48:09.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 70,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Proovedores\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Proovedores\\Index.cshtml",
@@ -776,12 +1249,11 @@
               "RelativeToolTip": "Views\\Proovedores\\Index.cshtml",
               "ViewState": "AgIAACcAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T01:49:35.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T01:49:35.858Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 69,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Promociones\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Promociones\\Index.cshtml",
@@ -789,38 +1261,11 @@
               "RelativeToolTip": "Views\\Promociones\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T01:31:49.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T01:31:49.271Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Autos.cs",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Models\\Autos.cs",
-              "RelativeDocumentMoniker": "Models\\Autos.cs",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Models\\Autos.cs",
-              "RelativeToolTip": "Models\\Autos.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T22:29:45.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ReservasController.cs",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\ReservasController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ReservasController.cs",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\ReservasController.cs",
-              "RelativeToolTip": "Controllers\\ReservasController.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAcwBcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T01:21:51.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 62,
               "Title": "Reservas.cs",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Models\\Reservas.cs",
               "RelativeDocumentMoniker": "Models\\Reservas.cs",
@@ -828,12 +1273,11 @@
               "RelativeToolTip": "Models\\Reservas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwB8AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T01:15:15.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T01:15:15.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 68,
               "Title": "Seguros.cs",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Models\\Seguros.cs",
               "RelativeDocumentMoniker": "Models\\Seguros.cs",
@@ -841,38 +1285,11 @@
               "RelativeToolTip": "Models\\Seguros.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T01:53:07.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T01:53:07.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "SegurosController.cs",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\SegurosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\SegurosController.cs",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\SegurosController.cs",
-              "RelativeToolTip": "Controllers\\SegurosController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAADwv0gAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T01:55:15.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Seguros\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Seguros\\Create.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Seguros\\Create.cshtml",
-              "RelativeToolTip": "Views\\Seguros\\Create.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAACwAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T01:59:06.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 67,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Seguros\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Seguros\\Delete.cshtml",
@@ -880,12 +1297,11 @@
               "RelativeToolTip": "Views\\Seguros\\Delete.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T01:59:24.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T01:59:24.719Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 63,
               "Title": "Rese\u00F1as.cs",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Models\\Rese\u00F1as.cs",
               "RelativeDocumentMoniker": "Models\\Rese\u00F1as.cs",
@@ -893,12 +1309,11 @@
               "RelativeToolTip": "Models\\Rese\u00F1as.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T21:09:13.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T21:09:13.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 66,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Seguros\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Seguros\\Details.cshtml",
@@ -906,12 +1321,11 @@
               "RelativeToolTip": "Views\\Seguros\\Details.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T01:59:49.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T01:59:49.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 65,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Seguros\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Seguros\\Edit.cshtml",
@@ -919,12 +1333,11 @@
               "RelativeToolTip": "Views\\Seguros\\Edit.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAC4AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T02:00:10.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T02:00:10.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 73,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Proovedores\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Proovedores\\Delete.cshtml",
@@ -932,25 +1345,11 @@
               "RelativeToolTip": "Views\\Proovedores\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T01:48:35.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T01:48:35.761Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "ProovedoresController.cs",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\ProovedoresController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProovedoresController.cs",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\ProovedoresController.cs",
-              "RelativeToolTip": "Controllers\\ProovedoresController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T01:39:02.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 74,
               "Title": "Proovedores.cs",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Models\\Proovedores.cs",
               "RelativeDocumentMoniker": "Models\\Proovedores.cs",
@@ -958,38 +1357,11 @@
               "RelativeToolTip": "Models\\Proovedores.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T01:37:48.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T01:37:48.89Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "PromocionesController.cs",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\PromocionesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PromocionesController.cs",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\PromocionesController.cs",
-              "RelativeToolTip": "Controllers\\PromocionesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T01:24:43.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "AutosController.cs",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\AutosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AutosController.cs",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\AutosController.cs",
-              "RelativeToolTip": "Controllers\\AutosController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwAsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T22:56:17.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 72,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Proovedores\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Proovedores\\Details.cshtml",
@@ -997,12 +1369,11 @@
               "RelativeToolTip": "Views\\Proovedores\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T01:48:55.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T01:48:55.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 71,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Proovedores\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Proovedores\\Edit.cshtml",
@@ -1010,38 +1381,11 @@
               "RelativeToolTip": "Views\\Proovedores\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T01:49:15.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T01:49:15.657Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Proovedores\\List.cshtml",
-              "RelativeDocumentMoniker": "Views\\Proovedores\\List.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Proovedores\\List.cshtml",
-              "RelativeToolTip": "Views\\Proovedores\\List.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T01:49:55.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Promociones\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Promociones\\Create.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Promociones\\Create.cshtml",
-              "RelativeToolTip": "Views\\Promociones\\Create.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T01:30:30.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 79,
               "Title": "Promociones.cs",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Models\\Promociones.cs",
               "RelativeDocumentMoniker": "Models\\Promociones.cs",
@@ -1049,12 +1393,11 @@
               "RelativeToolTip": "Models\\Promociones.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T01:22:11.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T01:22:11.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 77,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Promociones\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Promociones\\Delete.cshtml",
@@ -1062,12 +1405,11 @@
               "RelativeToolTip": "Views\\Promociones\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T01:30:53.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T01:30:53.772Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 76,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Promociones\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Promociones\\Details.cshtml",
@@ -1075,12 +1417,11 @@
               "RelativeToolTip": "Views\\Promociones\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T01:31:15.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T01:31:15.183Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 75,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Promociones\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Promociones\\Edit.cshtml",
@@ -1088,50 +1429,11 @@
               "RelativeToolTip": "Views\\Promociones\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T01:31:33.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T01:31:33.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "Rese\u00F1asController.cs",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\Rese\u00F1asController.cs",
-              "RelativeDocumentMoniker": "Controllers\\Rese\u00F1asController.cs",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\Rese\u00F1asController.cs",
-              "RelativeToolTip": "Controllers\\Rese\u00F1asController.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T21:11:32.137Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Promociones\\List.cshtml",
-              "RelativeDocumentMoniker": "Views\\Promociones\\List.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Promociones\\List.cshtml",
-              "RelativeToolTip": "Views\\Promociones\\List.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T01:32:08.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Rese\u00F1as\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Rese\u00F1as\\Create.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Rese\u00F1as\\Create.cshtml",
-              "RelativeToolTip": "Views\\Rese\u00F1as\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T21:41:15.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 78,
               "Title": "Mantenimiento.cs",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Models\\Mantenimiento.cs",
               "RelativeDocumentMoniker": "Models\\Mantenimiento.cs",
@@ -1139,12 +1441,11 @@
               "RelativeToolTip": "Models\\Mantenimiento.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T03:28:06.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T03:28:06.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 85,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Mantenimiento\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Mantenimiento\\Index.cshtml",
@@ -1156,19 +1457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Rese\u00F1as\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Rese\u00F1as\\Index.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Rese\u00F1as\\Index.cshtml",
-              "RelativeToolTip": "Views\\Rese\u00F1as\\Index.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADoAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T21:20:19.243Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 81,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Rese\u00F1as\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Rese\u00F1as\\Edit.cshtml",
@@ -1180,7 +1469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 80,
               "Title": "Financiamiento.cs",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Models\\Financiamiento.cs",
               "RelativeDocumentMoniker": "Models\\Financiamiento.cs",
@@ -1188,12 +1477,11 @@
               "RelativeToolTip": "Models\\Financiamiento.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T01:25:07.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T01:25:07.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 82,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Rese\u00F1as\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Rese\u00F1as\\Details.cshtml",
@@ -1205,7 +1493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 84,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Rese\u00F1as\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Rese\u00F1as\\Delete.cshtml",
@@ -1217,7 +1505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 83,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Reservas\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Reservas\\Delete.cshtml",
@@ -1229,31 +1517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Rese\u00F1as\\List.cshtml",
-              "RelativeDocumentMoniker": "Views\\Rese\u00F1as\\List.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Rese\u00F1as\\List.cshtml",
-              "RelativeToolTip": "Views\\Rese\u00F1as\\List.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T21:20:39.583Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T02:33:26.351Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 86,
               "Title": "Clientes.cs",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Models\\Clientes.cs",
               "RelativeDocumentMoniker": "Models\\Clientes.cs",
@@ -1265,7 +1529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 87,
               "Title": "Empleados.cs",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Models\\Empleados.cs",
               "RelativeDocumentMoniker": "Models\\Empleados.cs",
@@ -1277,55 +1541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "FinanciamientoController.cs",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\FinanciamientoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\FinanciamientoController.cs",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\FinanciamientoController.cs",
-              "RelativeToolTip": "Controllers\\FinanciamientoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T01:30:28.757Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "EmpleadosController.cs",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\EmpleadosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmpleadosController.cs",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\EmpleadosController.cs",
-              "RelativeToolTip": "Controllers\\EmpleadosController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAIwAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T23:37:03.41Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "MantenimientoController.cs",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\MantenimientoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MantenimientoController.cs",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\MantenimientoController.cs",
-              "RelativeToolTip": "Controllers\\MantenimientoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T03:36:04.917Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 70,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Mantenimiento\\List.cshtml",
-              "RelativeDocumentMoniker": "Views\\Mantenimiento\\List.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Mantenimiento\\List.cshtml",
-              "RelativeToolTip": "Views\\Mantenimiento\\List.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAC4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T03:45:25.07Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 89,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Mantenimiento\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Mantenimiento\\Edit.cshtml",
@@ -1337,19 +1553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Clientes\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Clientes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Clientes\\Index.cshtml",
-              "RelativeToolTip": "Views\\Clientes\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T03:52:56.231Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 88,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Mantenimiento\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Mantenimiento\\Delete.cshtml",
@@ -1361,19 +1565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Mantenimiento\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Mantenimiento\\Create.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Mantenimiento\\Create.cshtml",
-              "RelativeToolTip": "Views\\Mantenimiento\\Create.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T03:43:08.316Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 90,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Mantenimiento\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Mantenimiento\\Details.cshtml",
@@ -1385,19 +1577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Financiamiento\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Financiamiento\\Create.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Financiamiento\\Create.cshtml",
-              "RelativeToolTip": "Views\\Financiamiento\\Create.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T01:34:37.165Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 94,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Financiamiento\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Financiamiento\\Delete.cshtml",
@@ -1409,7 +1589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 93,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Financiamiento\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Financiamiento\\Details.cshtml",
@@ -1421,19 +1601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Clientes\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Clientes\\Create.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Clientes\\Create.cshtml",
-              "RelativeToolTip": "Views\\Clientes\\Create.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T04:47:29.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 92,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Financiamiento\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Financiamiento\\Edit.cshtml",
@@ -1445,7 +1613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 91,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Financiamiento\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Financiamiento\\Index.cshtml",
@@ -1457,31 +1625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Financiamiento\\List.cshtml",
-              "RelativeDocumentMoniker": "Views\\Financiamiento\\List.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Financiamiento\\List.cshtml",
-              "RelativeToolTip": "Views\\Financiamiento\\List.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T01:36:07.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 82,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Empleados\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Empleados\\Create.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Empleados\\Create.cshtml",
-              "RelativeToolTip": "Views\\Empleados\\Create.cshtml",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwCoAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T23:50:37.845Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 95,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Empleados\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Empleados\\Delete.cshtml",
@@ -1493,7 +1637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 96,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Empleados\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Empleados\\Details.cshtml",
@@ -1505,7 +1649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 97,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Empleados\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Empleados\\Edit.cshtml",
@@ -1517,7 +1661,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 98,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Empleados\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Empleados\\Index.cshtml",
@@ -1529,55 +1673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Clientes\\List.cshtml",
-              "RelativeDocumentMoniker": "Views\\Clientes\\List.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Clientes\\List.cshtml",
-              "RelativeToolTip": "Views\\Clientes\\List.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T04:48:46.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 87,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Empleados\\List.cshtml",
-              "RelativeDocumentMoniker": "Views\\Empleados\\List.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Empleados\\List.cshtml",
-              "RelativeToolTip": "Views\\Empleados\\List.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T23:52:52.758Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 89,
-              "Title": "ClientesController.cs",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\ClientesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Controllers\\ClientesController.cs",
-              "RelativeToolTip": "Controllers\\ClientesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T02:33:59.938Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 95,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Autos\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Autos\\Create.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Autos\\Create.cshtml",
-              "RelativeToolTip": "Views\\Autos\\Create.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T23:04:18.586Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 101,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Autos\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Autos\\Delete.cshtml",
@@ -1589,7 +1685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 100,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Autos\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Autos\\Details.cshtml",
@@ -1601,7 +1697,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 99,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Autos\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Autos\\Edit.cshtml",
@@ -1613,43 +1709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T03:57:17.847Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 90,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Autos\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Autos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Autos\\Index.cshtml",
-              "RelativeToolTip": "Views\\Autos\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T23:06:18.509Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 91,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Autos\\List.cshtml",
-              "RelativeDocumentMoniker": "Views\\Autos\\List.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Autos\\List.cshtml",
-              "RelativeToolTip": "Views\\Autos\\List.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T23:06:37.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 103,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Clientes\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Clientes\\Delete.cshtml",
@@ -1661,7 +1721,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 102,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Clientes\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Clientes\\Details.cshtml",
@@ -1673,7 +1733,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 104,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Clientes\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Clientes\\Edit.cshtml",
@@ -1682,54 +1742,6 @@
               "ViewState": "AgIAABgAAAAAAAAAAAAAADgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-11T04:48:28.281Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 103,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T19:20:20.75Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 102,
-              "Title": "BundleConfig.cs",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\App_Start\\BundleConfig.cs",
-              "RelativeDocumentMoniker": "App_Start\\BundleConfig.cs",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\App_Start\\BundleConfig.cs",
-              "RelativeToolTip": "App_Start\\BundleConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T19:21:50.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 99,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T19:22:07.18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 101,
-              "Title": "FilterConfig.cs",
-              "DocumentMoniker": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\App_Start\\FilterConfig.cs",
-              "RelativeDocumentMoniker": "App_Start\\FilterConfig.cs",
-              "ToolTip": "C:\\Users\\XSF\\Documents\\6 Cuatrimestre\\6 CUATRIMESTRE NOSQL\\Proyecto\\SCMotors\\App_Start\\FilterConfig.cs",
-              "RelativeToolTip": "App_Start\\FilterConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T19:24:10.111Z"
             }
           ]
         }

@@ -41,7 +41,7 @@ namespace SCMotors.Controllers
 
             try
             {
-                var autos = _conexion.AutosCollection.Find(a => a.Id == id).FirstOrDefault(); // Buscar grupo por ID
+                var autos = _conexion.AutosCollection.Find(a => a.Id == id).FirstOrDefault(); 
 
                 if (autos == null)
                 {
@@ -104,7 +104,7 @@ namespace SCMotors.Controllers
             if (ModelState.IsValid)
             {
                 var filter = Builders<Autos>.Filter.Eq(a => a.Id, id);
-                _conexion.AutosCollection.ReplaceOne(filter, autos); // Actualiza el documento
+                _conexion.AutosCollection.ReplaceOne(filter, autos); 
 
                 return RedirectToAction("Index");
             }

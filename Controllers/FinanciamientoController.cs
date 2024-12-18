@@ -104,7 +104,7 @@ namespace SCMotors.Controllers
             if (ModelState.IsValid)
             {
                 var filter = Builders<Financiamiento>.Filter.Eq(f => f.Id, id);
-                _conexion.FinanciamientoCollection.ReplaceOne(filter, financiamiento); // Actualiza el documento
+                _conexion.FinanciamientoCollection.ReplaceOne(filter, financiamiento); 
 
                 return RedirectToAction("Index");
             }

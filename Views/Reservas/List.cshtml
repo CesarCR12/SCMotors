@@ -1,52 +1,40 @@
 ﻿@model IEnumerable<SCMotors.Models.Reservas>
 
 @{
-    ViewBag.Title = "List";
+    ViewBag.Title = "Lista de Reservas";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2>List</h2>
+<h2>Lista de Reservas</h2>
 
 <p>
-    @Html.ActionLink("Create New", "Create")
+    @Html.ActionLink("Crear Nueva Reserva", "Create", new { @class = "btn btn-primary" })
 </p>
-<table class="table">
-    <tr>
-        <th>
-            @Html.DisplayNameFor(model => model.Modelo_auto)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Detalles_reserva)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Estado)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Cliente_id)
-        </th>
 
-        <th></th>
-    </tr>
-
-@foreach (var item in Model) {
-    <tr>
-        <td>
-            @Html.DisplayFor(modelItem => item.Modelo_auto)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Detalles_reserva)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Estado)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Cliente_id)
-        </td>
-        <td>
-            @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
-            @Html.ActionLink("Details", "Details", new { id = item.Id }) |
-            @Html.ActionLink("Delete", "Delete", new { id = item.Id })
-        </td>
-    </tr>
-}
-
+<table class="table table-striped table-bordered">
+    <thead class="thead-dark">
+        <tr>
+            <th>Modelo de Auto</th>
+            <th>Detalles de Reserva</th>
+            <th>Estado</th>
+            <th>Cliente ID</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Modelo_auto)</td>
+                <td>@Html.DisplayFor(modelItem => item.Detalles_reserva)</td>
+                <td>@Html.DisplayFor(modelItem => item.Estado)</td>
+                <td>@Html.DisplayFor(modelItem => item.Cliente_id)</td>
+                <td>
+                    <a href="@Url.Action("Edit", "Reservas", new { id = item.Id })" class="btn btn-warning btn-sm">Editar</a>
+                    <a href="@Url.Action("Details", "Reservas", new { id = item.Id })" class="btn btn-info btn-sm">Detalles</a>
+                    <a href="@Url.Action("Delete", "Reservas", new { id = item.Id })" class="btn btn-danger btn-sm" onclick="return confirm('¿Estás seguro de que deseas eliminar esta reserva?')">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
 </table>
